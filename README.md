@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dayitachaudhuri
 - 👀 I’m interested in Web Developement and Machine Learning
 - 🌱 I’m currently learning Machine Learning Algorithms
-- 💞️ I’m looking to collaborate on ML and Web Developemnt Projects
+- 💞️ I’m looking to collaborate on ML and Web Development Projects
 - 📫 Reach me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
 
 <!---
