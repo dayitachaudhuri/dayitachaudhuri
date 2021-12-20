@@ -1,5 +1,5 @@
 -Hi, I’m @dayitachaudhuri
--Reach me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
+-Connect with me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
 
 <!---
 dayitachaudhuri/dayitachaudhuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
