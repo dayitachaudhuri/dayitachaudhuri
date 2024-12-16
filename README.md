@@ -7,7 +7,9 @@
 -Connect with me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
 -Or feel free to give my website a visit https://dayitachaudhuri.github.io/Portfolio/
 
-[![Dayita's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayitachaudhuri&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Dayita's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayitachaudhuri&count_private=true&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayitachaudhuri&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dayitachaudhuri/dayitachaudhuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
