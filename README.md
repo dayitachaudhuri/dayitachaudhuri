@@ -1,10 +1,8 @@
 # Hello World!
  
 - ✋Hi, I’m @dayitachaudhuri
--  ♀️ Pronouns: She / Her
-- 🔭 I’m currently completing my graduation from NIT, Agartala.
-- 🌱 I’m currently learning Machine Learning and Big Data
-- 💬 Ask me about [Poetry](https://www.instagram.com/phrasesofdelirium/), Cats and Harry Potter. 
+- 🔭 I’m currently completing my BTech in Computer Science and Engineering from NIT, Agartala.
+- 💬 Ask me about Poetry, Cats and Harry Potter. 
 
 -Connect with me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
 -Or feel free to give my website a visit https://dayitachaudhuri.github.io/Portfolio/
