@@ -5,7 +5,7 @@
 - 💬 Ask me about Poetry, Cats and Harry Potter. 
 
 -Connect with me through LinkedIn https://www.linkedin.com/in/dayita-chaudhuri/
--Or feel free to give my website a visit https://dayitachaudhuri.github.io/Portfolio/
+-Or feel free to give my website a visit my [website](https://dayitachaudhuri.onrender.com/)
 
 [![Dayita's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayitachaudhuri&count_private=true&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
