@@ -1,6 +1,6 @@
 # Hello World!
  
-I’m Dayita, currently doing a Master's in Computational and Data Science from IISc. Ask me about Literature, Cats and Harry Potter. 
+I’m Dayita, currently doing a Master's in Computational and Data Science from IISc.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dayita-chaudhuri/)
 
